@@ -1,0 +1,2 @@
+# InferenciaBayesiana
+Inferencia Bayesiana
