@@ -7,7 +7,7 @@ Prior Gamma Likelihood Exponential.\
 Prior Gamma Likelihood Poisson.\
 Ejemplo en Python subido en Notebook\
 Ejemplo en R aquí \
-https://rpubs.com/fasciatus/750361\
-https://rpubs.com/fasciatus/750372\
+https://rpubs.com/fasciatus/750361 \
+https://rpubs.com/fasciatus/750372 \
 https://rpubs.com/fasciatus/750373
 
